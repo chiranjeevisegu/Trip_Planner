@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Botanical Garden",
+    "city": "Ooty",
+    "type": "nature",
+    "entry_fee": 30,
+    "duration_hours": 2,
+    "rating": 4.5,
+    "description": "A scenic garden with exotic plants and flowers."
+  },
+  {
+    "name": "Ooty Lake",
+    "city": "Ooty",
+    "type": "sightseeing",
+    "entry_fee": 20,
+    "duration_hours": 2,
+    "rating": 4.2,
+    "description": "A beautiful lake with boating facilities."
+  },
+  {
+    "name": "Doddabetta Peak",
+    "city": "Ooty",
+    "type": "viewpoint",
+    "entry_fee": 0,
+    "duration_hours": 3,
+    "rating": 4.7,
+    "description": "Highest peak in the Nilgiris offering panoramic views."
+  },
+  {
+    "name": "Rose Garden",
+    "city": "Ooty",
+    "type": "nature",
+    "entry_fee": 20,
+    "duration_hours": 1,
+    "rating": 4.1,
+    "description": "Home to thousands of varieties of roses."
+  },
+  {
+    "name": "Thread Garden",
+    "city": "Ooty",
+    "type": "museum",
+    "entry_fee": 10,
+    "duration_hours": 1,
+    "rating": 4.0,
+    "description": "Handmade thread flower models in a garden setting."
+  },
+  {
+    "name": "St. Stephen's Church",
+    "city": "Ooty",
+    "type": "historical",
+    "entry_fee": 0,
+    "duration_hours": 1,
+    "rating": 4.3,
+    "description": "One of the oldest churches in the Nilgiris."
+  },
+  {
+    "name": "Emerald Lake",
+    "city": "Ooty",
+    "type": "nature",
+    "entry_fee": 15,
+    "duration_hours": 2,
+    "rating": 4.4,
+    "description": "A serene lake surrounded by forest."
+  },
+  {
+    "name": "Pykara Waterfalls",
+    "city": "Ooty",
+    "type": "nature",
+    "entry_fee": 20,
+    "duration_hours": 2,
+    "rating": 4.6,
+    "description": "Popular waterfall near Ooty."
+  },
+  {
+    "name": "Nilgiri Mountain Railway",
+    "city": "Ooty",
+    "type": "transport",
+    "entry_fee": 50,
+    "duration_hours": 4,
+    "rating": 4.8,
+    "description": "Heritage toy train ride through scenic hills."
+  },
+  {
+    "name": "Wax World Museum",
+    "city": "Ooty",
+    "type": "museum",
+    "entry_fee": 15,
+    "duration_hours": 1,
+    "rating": 3.9,
+    "description": "Wax statues of famous Indian personalities."
+  },
+  {
+    "name": "Tea Museum",
+    "city": "Munnar",
+    "type": "museum",
+    "entry_fee": 30,
+    "duration_hours": 2,
+    "rating": 4.4,
+    "description": "Museum showcasing tea processing and history."
+  },
+  {
+    "name": "Mattupetty Dam",
+    "city": "Munnar",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 2,
+    "rating": 4.5,
+    "description": "Dam with boating and picnic spots."
+  },
+  {
+    "name": "Eravikulam National Park",
+    "city": "Munnar",
+    "type": "wildlife",
+    "entry_fee": 60,
+    "duration_hours": 4,
+    "rating": 4.7,
+    "description": "Home to the endangered Nilgiri Tahr."
+  },
+  {
+    "name": "Anamudi Peak",
+    "city": "Munnar",
+    "type": "viewpoint",
+    "entry_fee": 0,
+    "duration_hours": 3,
+    "rating": 4.6,
+    "description": "Highest peak in South India."
+  },
+  {
+    "name": "Attukal Waterfalls",
+    "city": "Munnar",
+    "type": "nature",
+    "entry_fee": 20,
+    "duration_hours": 2,
+    "rating": 4.3,
+    "description": "Beautiful waterfall with trekking trails."
+  },
+  {
+    "name": "Blossom Park",
+    "city": "Munnar",
+    "type": "park",
+    "entry_fee": 15,
+    "duration_hours": 1,
+    "rating": 4.0,
+    "description": "Park with floral displays and activities."
+  },
+  {
+    "name": "Kundala Lake",
+    "city": "Munnar",
+    "type": "sightseeing",
+    "entry_fee": 10,
+    "duration_hours": 2,
+    "rating": 4.2,
+    "description": "Scenic lake with pedal boats."
+  },
+  {
+    "name": "Echo Point",
+    "city": "Munnar",
+    "type": "viewpoint",
+    "entry_fee": 0,
+    "duration_hours": 1,
+    "rating": 4.1,
+    "description": "Famous spot for natural echoes."
+  },
+  {
+    "name": "Lockhart Tea Estate",
+    "city": "Munnar",
+    "type": "nature",
+    "entry_fee": 0,
+    "duration_hours": 2,
+    "rating": 4.5,
+    "description": "One of the largest tea plantations."
+  },
+  {
+    "name": "Top Station",
+    "city": "Munnar",
+    "type": "viewpoint",
+    "entry_fee": 0,
+    "duration_hours": 2,
+    "rating": 4.7,
+    "description": "Panoramic views of the Western Ghats."
+  },
+  {
+    "name": "Abbey Falls",
+    "city": "Coorg",
+    "type": "nature",
+    "entry_fee": 15,
+    "duration_hours": 2,
+    "rating": 4.6,
+    "description": "Scenic waterfall surrounded by coffee plantations."
+  },
+  {
+    "name": "Raja's Seat",
+    "city": "Coorg",
+    "type": "viewpoint",
+    "entry_fee": 10,
+    "duration_hours": 1,
+    "rating": 4.4,
+    "description": "Hilltop viewpoint famous for sunsets."
+  },
+  {
+    "name": "Dubare Elephant Camp",
+    "city": "Coorg",
+    "type": "wildlife",
+    "entry_fee": 50,
+    "duration_hours": 3,
+    "rating": 4.5,
+    "description": "Camp where visitors can interact with elephants."
+  },
+  {
+    "name": "Nisargadhama",
+    "city": "Coorg",
+    "type": "nature",
+    "entry_fee": 20,
+    "duration_hours": 2,
+    "rating": 4.3,
+    "description": "Island formed by the river with bamboo groves."
+  },
+  {
+    "name": "Madikeri Fort",
+    "city": "Coorg",
+    "type": "historical",
+    "entry_fee": 10,
+    "duration_hours": 1,
+    "rating": 4.0,
+    "description": "18th-century fort in Madikeri town."
+  },
+  {
+    "name": "Talakaveri",
+    "city": "Coorg",
+    "type": "religious",
+    "entry_fee": 0,
+    "duration_hours": 2,
+    "rating": 4.1,
+    "description": "Source of the river Kaveri and a pilgrimage site."
+  },
+  {
+    "name": "Pushpagiri Wildlife Sanctuary",
+    "city": "Coorg",
+    "type": "wildlife",
+    "entry_fee": 0,
+    "duration_hours": 5,
+    "rating": 4.6,
+    "description": "Biodiversity hotspot with trekking trails."
+  },
+  {
+    "name": "Coffee Museum",
+    "city": "Coorg",
+    "type": "museum",
+    "entry_fee": 15,
+    "duration_hours": 1,
+    "rating": 4.2,
+    "description": "History of coffee cultivation in Coorg."
+  },
+  {
+    "name": "Chelavara Falls",
+    "city": "Coorg",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 2,
+    "rating": 4.3,
+    "description": "Picturesque waterfall near Coorg."
+  },
+  {
+    "name": "Iruppu Falls",
+    "city": "Coorg",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 3,
+    "rating": 4.4,
+    "description": "Popular waterfall and pilgrimage site."
+  },
+  {
+    "name": "Edakkal Caves",
+    "city": "Wayanad",
+    "type": "historical",
+    "entry_fee": 20,
+    "duration_hours": 3,
+    "rating": 4.5,
+    "description": "Ancient caves with prehistoric drawings."
+  },
+  {
+    "name": "Banasura Sagar Dam",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 2,
+    "rating": 4.4,
+    "description": "Largest earth dam in India with boating."
+  },
+  {
+    "name": "Soochipara Falls",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 20,
+    "duration_hours": 3,
+    "rating": 4.6,
+    "description": "Three-tiered waterfall surrounded by forest."
+  },
+  {
+    "name": "Pookode Lake",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 15,
+    "duration_hours": 2,
+    "rating": 4.3,
+    "description": "Scenic freshwater lake with boating."
+  },
+  {
+    "name": "Kuruva Island",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 3,
+    "rating": 4.5,
+    "description": "Protected river delta with rich biodiversity."
+  },
+  {
+    "name": "Chembra Peak",
+    "city": "Wayanad",
+    "type": "viewpoint",
+    "entry_fee": 20,
+    "duration_hours": 5,
+    "rating": 4.8,
+    "description": "Highest peak in Wayanad with heart-shaped lake."
+  },
+  {
+    "name": "Tholpetty Wildlife Sanctuary",
+    "city": "Wayanad",
+    "type": "wildlife",
+    "entry_fee": 15,
+    "duration_hours": 4,
+    "rating": 4.3,
+    "description": "Wildlife sanctuary with elephants and deer."
+  },
+  {
+    "name": "Meenmutty Falls",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 10,
+    "duration_hours": 3,
+    "rating": 4.6,
+    "description": "Spectacular three-tiered waterfall."
+  },
+  {
+    "name": "Wayanad Wildlife Sanctuary",
+    "city": "Wayanad",
+    "type": "wildlife",
+    "entry_fee": 20,
+    "duration_hours": 5,
+    "rating": 4.4,
+    "description": "Sanctuary with tigers, elephants, and birds."
+  },
+  {
+    "name": "Kalladi Forest",
+    "city": "Wayanad",
+    "type": "nature",
+    "entry_fee": 0,
+    "duration_hours": 3,
+    "rating": 4.2,
+    "description": "Dense forest area good for trekking."
+  }
+]
